@@ -289,17 +289,18 @@ footer nav a {
 
 .flexbox1 {
     display: flex;
+    justify-content: space-around;
 }
 
 #strategy{
-    width: 50%;
+    width: 45%;
     margin: 1% 0%;
     padding: 4% 0%;
     border-bottom: 2px dotted black;
 }
 
 #how {
-    width: 50%;
+    width: 45%;
     margin: 1% 0%;
     padding: 4% 0%;
     border-bottom: 2px dotted black;
@@ -307,17 +308,18 @@ footer nav a {
 
 .flexbox2 {
     display: flex;
+    justify-content: space-around;
 }
 
 #places {
-    width: 50%;
+    width: 45%;
     margin: 1% 0%;
     padding: 4% 0%;
     border-bottom: 2px dotted black;
 }
 
 #collab {
-    width: 50%;
+    width: 45%;
     margin: 1% 0%;
     padding: 4% 0%;
     border-bottom: 2px dotted black;
