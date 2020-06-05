@@ -338,11 +338,27 @@ footer nav a {
     justify-content: space-around;
 }
 
-#strategy{
+#strategy {
     width: 45%;
     margin: 1% 0%;
     padding: 4% 0%;
     border-bottom: 2px dotted black;
+}
+
+#strategy h2 {
+    margin: 5% 0%;
+}
+
+#how h2 {
+    margin: 5% 0%;
+}
+
+#places h2 {
+    margin: 5% 0%;
+}
+
+#collab h2 {
+    margin: 5% 0%;
 }
 
 #how {
