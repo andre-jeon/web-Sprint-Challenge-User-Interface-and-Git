@@ -280,3 +280,63 @@ footer nav a {
     justify-content: center;
     margin: 2% 0%;
 }
+
+#about {
+    margin: 2% 0%;
+    padding: 4% 0%;
+    border-bottom: 2px dotted black;
+}
+
+.flexbox1 {
+    display: flex;
+}
+
+#strategy{
+    width: 50%;
+    margin: 1% 0%;
+    padding: 4% 0%;
+    border-bottom: 2px dotted black;
+}
+
+#how {
+    width: 50%;
+    margin: 1% 0%;
+    padding: 4% 0%;
+    border-bottom: 2px dotted black;
+}
+
+.flexbox2 {
+    display: flex;
+}
+
+#places {
+    width: 50%;
+    margin: 1% 0%;
+    padding: 4% 0%;
+    border-bottom: 2px dotted black;
+}
+
+#collab {
+    width: 50%;
+    margin: 1% 0%;
+    padding: 4% 0%;
+    border-bottom: 2px dotted black;
+}
+
+#learn {
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1% 0%;
+    margin: 2% 0%;
+    width: 30%;
+}
+
+.together {
+    margin: 3% 2%;
+}
+
+.together h2 {
+    margin: 1% 0%;
+}
