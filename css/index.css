@@ -141,6 +141,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box2 {
@@ -152,6 +153,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box3 {
@@ -163,6 +165,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box4 {
@@ -174,6 +177,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box5 {
@@ -185,6 +189,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box6 {
@@ -196,6 +201,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box7 {
@@ -207,6 +213,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box8 {
@@ -218,6 +225,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box9 {
@@ -229,6 +237,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
 
 .middle-content .boxes .box10 {
@@ -240,7 +249,44 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: pulse 10s infinite;
 }
+
+@keyframes pulse {
+    0% {
+      background-color: teal;
+    }
+    10% {
+        background-color: gold;
+      }
+    20% {
+        background-color: cadetblue;
+      }
+    30% {
+        background-color: coral;
+      }
+    40% {
+        background-color: crimson;
+    }
+    50% {
+        background-color: forestgreen;
+      }
+    60% {
+        background-color: darkorchid;
+      }
+    70% {
+        background-color: hotpink;
+      }
+    80% {
+        background-color: indigo;
+      }
+    90% {
+        background-color: dodgerblue;
+      }
+    100% {
+        background-color: teal;
+      }
+  }
 
 .bottom-content {
     display: flex;
